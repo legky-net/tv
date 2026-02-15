@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg; http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
-#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/641f5eb96e3288b51c1160ffd20c679e.png" tvg-id="Первый канал (-1)",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -30,8 +29,6 @@ https://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/0135b76d2faeddd18cc6e687e68fd264.png" tvg-id="Первый канал (+9)",Первый канал (+9)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/8cdec831496c1d63e65cbb8898216977.png" tvg-id="Россия 1 (-1)",Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
@@ -62,8 +59,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="RU",Россия1HD +9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/843302fbe2168d4620436983d29a993c.png" tvg-id="Россия 1 (+2)",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_URAL_CHEL/variant.m3u8
@@ -103,7 +98,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/34482b1ce211ac9cc69f79cee9cc871c.png" tvg-id="Россия К (+7)",Россия К (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-
 #EXTINF:-1 group-title="RU",Россия К HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -116,7 +110,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="RU",Россия К HD +7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/239132ae9f1cb78fa47ad3f4fd2c6d1f.png" tvg-id="НТВ (+1)",НТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
@@ -126,8 +119,6 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_CHEL/variant.
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/f7b764e21e8035eb69f7fa1f01a2a96d.png" tvg-id="НТВ (+7)",НТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="RU",НТВ Право
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/th_pravo/playlist.m3u8
@@ -140,8 +131,6 @@ http://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="RU",НТВ Хит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/th_style/playlist.m3u8
-
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/34f43855aacdbb11d54a784b3e80b7be.png" tvg-id="Пятый канал",Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
@@ -208,7 +197,6 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOM_CHEL/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/4a003eb6e137d6aabb403e50a878db27.png" tvg-id="Домашний (+7)",Домашний (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU",2x2
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -221,8 +209,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU",2x2 (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/fdf100fb4e0cddada1e753af3b26f6b0.png" tvg-id="Пятница! (+2)",Пятница! (+2)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant.m3u8
@@ -247,51 +233,34 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/08cd6c75c30fb04baa26485a3975a2e5.png" tvg-id="ТНТ4 (+2)",ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-
-
-
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Регион" tvg-logo="https://karnei4.github.io/convert/logo-z/164935eab0fe3227e7c678b5685db208.png" tvg-id="Саратов 24",Саратов 24
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8
-
 #EXTINF:-1 group-title="Регион",Лен ТВ 24 (Санкт-Петербург)
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
-
 #EXTINF:-1 group-title="Регион",Санкт-Петербург HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твое ТВ HD.png" group-title="RU",Твое ТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
-
-
 #EXTINF:-1 group-title="RU",Шансон ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="RU",Теледом HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-
 #EXTINF:-1 group-title="RU",НЕИЗВЕСТНАЯ РОССИЯ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
-
-
-
 #EXTINF:-1 group-title="Кино",Красная линия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="RU",360° HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Регион",Москва Доверие (Москва)
 http://dmi3y-tv6.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
-
 #EXTINF:-1 group-title="Регион",Москва 24 (Москва)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
