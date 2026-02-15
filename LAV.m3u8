@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
-
+#EXTM3U url-tvg="https://gabbarit.page.link/epg; http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/641f5eb96e3288b51c1160ffd20c679e.png" tvg-id="Первый канал (-1)",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -293,4 +293,5 @@ http://dmi3y-tv6.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 
 #EXTINF:-1 group-title="Регион",Москва 24 (Москва)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
