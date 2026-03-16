@@ -179,6 +179,23 @@ https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/cc19a43e12d7b5c953be67ac58cebc8b.png" tvg-id="Мир (+7)",Мир (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+
+#EXTINF:-1 group-title="RU",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="RU",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="RU",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="RU",Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+
+#EXTINF:-1 group-title="RU",МИР 24 FHD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/48f61415a32b4111fee20ef9e7b6ff3b.png" tvg-id="Звезда",Звезда
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
@@ -188,6 +205,60 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_CHEL/variant.m3
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/248fe94dc5bcb28d6f0d5f862736883d.png" tvg-id="Звезда (+7)",Звезда (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+
+#EXTINF:-1 group-title="RU",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="RU" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="RU",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="RU",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="RU",ОТР
+http://85.192.10.131/hls/OTR/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт",Спортивный
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Матч ТВ
+http://catchup.videoline.ru/match/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 FR
+http://41.205.93.154/EUROSPORT2/index.m3u8
+
+
+#EXTINF:-1 group-title="RU" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
+https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 1 HD
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-id="stv-by", СТВ
+https://edge53.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1093126388.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png",Новое Телевидение
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+
+
+#EXTINF:-1 group-title="Спутник",DW
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+
+
+
+
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/e53b539aab3900b7d873aad7765d093d.png" tvg-id="Домашний",Домашний
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -253,6 +324,79 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="RU",НЕИЗВЕСТНАЯ РОССИЯ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+
+#EXTINF:-1 group-title="RU",Матч ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфир",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Эфир",ТОЛК
+https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
+https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
+#EXTINF:-1 group-title="Эфир",Загородная жизнь
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 group-title="Эфир",Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Эфир",Просвещение
+http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+
+#EXTINF:-1 group-title="Эфир" ,Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+
+#EXTINF:-1 group-title="Кино",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Kino TV
+http://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Патриот
+http://185.46.48.18:80/asvtv/index.m3u8
+
+#EXTINF:-1 group-title="Кино", Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="pro100", Про100 ТВ
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+#EXTINF:-1 group-title="Кино",Кино 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="Кино",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Alpha TV Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Кино",Alpha TV Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мистер Бин
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png", СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино",Красная линия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
