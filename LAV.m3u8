@@ -604,9 +604,6 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sankt-peterburg",Санкт-Петербург
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="moskva-24",Москва 24
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Наши города
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
@@ -912,8 +909,6 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Первый информационный HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 
-
-
 #EXTINF:-1 group-title="Эфир",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Эфир",ТОЛК
@@ -962,144 +957,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Спутник",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Motor
-https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300007PB" tvg-name="XITE Nuevo Latino" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png" group-title="Музыкальные" tvg-chno="4338",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
 
-
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Fashion Channel
-https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 1
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 2
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 3
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 4
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мода 5
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Приколы 1
-https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Приколы 2
-https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Танцы 1
-https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Танцы 2
-https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Танцы 3
-https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Тик Ток
-https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Gameplay
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Gameplay трейлеры
-https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Спорт
-https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Овертайм
-https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 32
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 1
-https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 2
-https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 3
-https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 4
-https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 5
-https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 5
-https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Музыка 6
-https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Подборка каналов с интернета" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Kpop Play TV
-https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="city-tv-bg",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 group-title="Музыкальные" ,AFN Music
@@ -1151,10 +1011,6 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Downtempo
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 
@@ -1192,39 +1048,17 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://vod.tuva.ru/nst/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Alpha TV Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Кино",Alpha TV Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Шоу Бенни Хилла
-https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мистер Бин
-https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png", СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Спас
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твое ТВ HD.png" group-title="RU",Твое ТВ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
 #EXTINF:-1 group-title="RU",Шансон ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="RU",Теледом HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="RU",НЕИЗВЕСТНАЯ РОССИЯ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+
 #EXTINF:-1 group-title="Кино",Красная линия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -1244,6 +1078,6 @@ http://dmi3y-tv6.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="Федеральные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="doverie",Москва. Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Регион",Москва 24 (Москва)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+#EXTINF:-1 group-title="Регион" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="moskva-24",Москва 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
