@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg; http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
 
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europe",Первый канал Европа (576p)
+https://streaming.thestream.cyou/live/210.m3u8
+
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
@@ -8,9 +11,6 @@ https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/641f5eb96e3288b51c1160ffd20c679e.png" tvg-id="Первый канал (-1)",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-
-#EXTINF:-1 tvg-id="ChannelOne.ru@Europe",Первый канал Европа (576p)
-https://streaming.thestream.cyou/live/210.m3u8
 
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/d24e698b508296c6768b2bbdae83a821.png" tvg-id="Первый канал (+1)",Первый канал (+1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
