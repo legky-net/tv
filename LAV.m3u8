@@ -59,7 +59,7 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/v
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA1_ZK/variant.m3u8
 
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia",Россия-РТР
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia",Планета-РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="RU" tvg-logo="https://karnei4.github.io/convert/logo-z/797756d8f9f3521965ca4daba1d6f5bb.png" tvg-id="Россия 24",Россия 24
@@ -951,7 +951,6 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 
 #EXTINF:-1 group-title="Эфир",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
-
 
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
